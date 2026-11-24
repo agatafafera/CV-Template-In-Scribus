@@ -3,7 +3,7 @@ Feel free to download it and edit and use it.
 Scribus version: 1.6.6
 I'm using whatever fonts my computer has set as deafult. 
 
-[/cv_template.pdf]
+[![CV template preview](cv_template.png)](cv_template.pdf)
 
 
 The placeholder picture comes from Pixabay. 
